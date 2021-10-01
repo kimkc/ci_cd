@@ -9,7 +9,7 @@ public class HelloController {
 
     @GetMapping("/")
     public String hello() {
-        return "Welcome to Simple Ecommerce ver 1.0 v2 for poll SCM";
+        return "Welcome to Simple Ecommerce ver 1.0 v2 for aws";
     }
 
 }
